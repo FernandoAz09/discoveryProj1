@@ -1,12 +1,18 @@
 
-# Título do Projeto
+# Primeiro Projeto
+Projeto inicial de uma jornada que, espero eu, seja bem longa. Tudo tem um ponto de partida e esse foi o meu.
+Foi criado um linktree de uma empresa de Marketing Digital com uma peculiar funcionalidade. Existem um switch de tema claro e um escuro.
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+
+## Autores
+
+Sergio C S Filho
+- https://github.com/SergioCSFilho
 
 
-## Referência
+## Stack utilizada
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+**Front-end:** HTML, CSS e Javascript
+
+
 
